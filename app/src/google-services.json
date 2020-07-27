@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "712679544811",
+    "firebase_url": "https://iot1-a9d8d.firebaseio.com",
+    "project_id": "iot1-a9d8d",
+    "storage_bucket": "iot1-a9d8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712679544811:android:f195a3d0fb65fe573e6bae",
+        "android_client_info": {
+          "package_name": "com.example.havakalite_iot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712679544811-jc5vmcgni6vo2qvso416daljnlt1doei.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.havakalite_iot",
+            "certificate_hash": "87ecea3730997d70be3100fa49eb18d9b1a0225c"
+          }
+        },
+        {
+          "client_id": "712679544811-hf6qpa275b02kvbrkg76oq7bp81iv2ra.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNWzv2tkv-UMnwCDyIoOoAuD5AXi3urgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712679544811-hf6qpa275b02kvbrkg76oq7bp81iv2ra.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
